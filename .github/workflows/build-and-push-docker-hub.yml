@@ -1,4 +1,4 @@
-name: Build, Push, Ssh, Pull, Down, Up, Fly
+name: Build, Push, Ssh, Pull, Down, Up, Fly, Run
 
 on: [push]
 
